@@ -63,5 +63,5 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
 ## How to Contribute <a name="how-to-contribute"></a>
 
 If you see areas for improvement or have ideas for enhancement, feel free to contribute or provide feedback!
-
+dev.afoyez@gmail.com
 Happy Analyzing! 🚀
