@@ -1,7 +1,9 @@
 # Find Your Next Alteryx Challenge App
+[Overview](#overview) | [App Features](#app-features) | [How to Use](#how-to-use) | [Updates](#updates) | [Video Tutorial](#video-tutorial) | [How to Contribute](#how-to-contribute)
+
 ![WeeklyChallengesIMG_Horizontal](https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/75a3225c-8d68-467c-91fe-c331ef77685f)
 
-## Overview
+## Overview <a name="overview"></a>
 
 Hello Alteryx Users! 
 
@@ -9,7 +11,7 @@ Are you looking for an efficient way to filter and discover different weekly cha
 Then Look no further! 
 This Alteryx app simplifies the process of finding challenges allowing the user to filter based on difficulty level, certification level, and subject matter.
 
-## App Features
+## App Features <a name="app-features"></a>
 
 - **Filter Challenges:** Filter challenges based on Difficulty Level, Certification Level, and Subject Matter.
 - **Download Multiple Challenges at Once:** Download start files of challenges directly after filtering.
@@ -17,10 +19,10 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
 
 - **Future Enhancement:** Input your community name to filter challenges you've already completed.
 
-## How to Use
+## How to Use <a name="how-to-use"></a>
 
 1. **Download the App:**
-   - Download the App by cloning the repository of downloading the zip file.
+   - Download the App by cloning the repository or downloading the zip file.
 2. **Filter Challenges:**
    - Open up the search.yxwz file.
    - Choose your criteria (Difficulty Level, Certification Level, Subject Matter).
@@ -28,18 +30,16 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
   <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/0ce0388d-39b5-4846-b500-65fa7918c0ce" alt="App Interface">
 </p>
 
-   - Once you have selected your criteria the app will parse through and display the approriate challenges and output a temp file.
+   - Once you have selected your criteria, the app will parse through and display the appropriate challenges and output a temp file.
 <p align="left">
-  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/c44117d3-cc1c-43d0-9629-865532ac16a5" alt="Temp FIle">
+  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/c44117d3-cc1c-43d0-9629-865532ac16a5" alt="Temp File">
 </p>
    - Open the temp file.
-   - This will output the filtered resutls.
+   - This will output the filtered results.
 <p align="left">
   <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/ee5f340a-c6e1-4842-ae3b-f6b97b1dcd82" alt="Filtered Output">
 </p>
 
-   
-   
 3. **Download Challenge Startfiles:**
    - You will then be prompted to select the challenges that you want to download.
 <p align="left">
@@ -48,22 +48,19 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
    - Select as many challenges as you would like and click finish.
 
 4. **Output:**
-   - Check the 'startfiles' folder to find your downloaded startfiles.
+   - Check the 'startfiles' folder to find your downloaded start files.
 
-## Updates
+## Updates <a name="updates"></a>
 
 - **Directly Download from App:** Now you can download start files of challenges directly after filtering.
 - **User-Requested Feature:** Filter challenges with multiple parts.
 - **Upcoming Feature:** Input your community name for personalized filtering.
 
-## Video Tutorial
+## Video Tutorial <a name="video-tutorial"></a>
 
 [Watch the App in Action](<YourVideoLink>)
 
-
-
-
-## How to Contribute
+## How to Contribute <a name="how-to-contribute"></a>
 
 If you see areas for improvement or have ideas for enhancement, feel free to contribute or provide feedback!
 
