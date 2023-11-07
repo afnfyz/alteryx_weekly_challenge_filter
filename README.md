@@ -32,7 +32,7 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
 
    - Once you have selected your criteria, the app will parse through and display the appropriate challenges and output a temp file.
 <p align="left">
-  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/c44117d3-cc1c-43d0-9629-865532ac16a5" alt="Temp File">
+  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/ceaf172b-fe5d-4d53-b869-795f6f6a8937" alt="Temp File">
 </p>
    - Open the temp file.
    - This will output the filtered results.
