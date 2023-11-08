@@ -28,7 +28,7 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
    - Check the first box if you want to filter out the challenges you have already completed and add your username.
    - Choose your criteria (Difficulty Level, Certification Level, Subject Matter).
 <p align="left">
-  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/a9d9e197-3544-470e-955a-b60a051af60c" alt="App Interface">
+  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/703d1507-9e35-4909-8adb-f770d1058f3e" alt="App Interface">
 </p>
 
    - Once you have selected your criteria, the app will parse through and display the appropriate challenges and output a temp file.
