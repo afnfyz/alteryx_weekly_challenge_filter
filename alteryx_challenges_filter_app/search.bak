@@ -2768,7 +2768,7 @@ Value - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="133">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="2478" y="930" />
+            <Position x="2466" y="930" />
           </GuiSettings>
           <Properties>
             <Configuration>
