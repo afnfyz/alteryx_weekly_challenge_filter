@@ -25,12 +25,14 @@ This Alteryx app simplifies the process of finding challenges allowing the user 
    - Download the App by cloning the repository or downloading the zip file.
 2. **Filter Challenges:**
    - Open up the search.yxwz file.
+   - Check the first box if you want to filter out the challenges you have already completed and add your username.
    - Choose your criteria (Difficulty Level, Certification Level, Subject Matter).
 <p align="left">
-  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/0ce0388d-39b5-4846-b500-65fa7918c0ce" alt="App Interface">
+  <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/a9d9e197-3544-470e-955a-b60a051af60c" alt="App Interface">
 </p>
 
    - Once you have selected your criteria, the app will parse through and display the appropriate challenges and output a temp file.
+   - If you chose to filter challenges that you have already completed you will also see and output that lists all your completed challenges.
 <p align="left">
   <img src="https://github.com/afnfyz/alteryx_weekly_challenge_filter/assets/124072294/ceaf172b-fe5d-4d53-b869-795f6f6a8937" alt="Temp File">
 </p>
